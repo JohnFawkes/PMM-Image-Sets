@@ -73,6 +73,7 @@ simpsons:
       "The Simpsons (1989)":
         seasons:
           37: {tpdb_poster: null, url_poster: null}
+          38: {tpdb_poster: null, url_poster: null}
   silvz:
     shows:
       "The Simpsons (1989)":
@@ -80,6 +81,7 @@ simpsons:
           35: {tpdb_poster: null, url_poster: null}
           36: {tpdb_poster: null, url_poster: null}
           37: {tpdb_poster: null, url_poster: null}
+          38: {tpdb_poster: null, url_poster: null}
 southpark:
   agon024:
     shows:
