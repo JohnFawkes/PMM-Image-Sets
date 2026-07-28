@@ -6,6 +6,7 @@ info:
   complete: true
 collections:
   "Spider-Man (Avengers) Collection": {tpdb_poster: 65414}
+  "Spider-Man (MCU) Collection": {tpdb_poster: 65414}
 movies:
   "Spider-Man: Homecoming (2017)": {tpdb_poster: 65412}
   "Spider-Man: Far From Home (2019)": {tpdb_poster: 65413}
